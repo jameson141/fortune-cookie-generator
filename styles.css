@@ -1,3 +1,5 @@
-body {
-	background-color: #FFA07A;
+div {
+    width: 200px;
+    height: 100px;
+    background-color: yellow;
 }
